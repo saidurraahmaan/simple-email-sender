@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: simpleemailsender
+  profiles:
+    active: dev
+  mail:
+    host:
+    password:
+    username:
+    default-encoding: utf-8
+    port:
